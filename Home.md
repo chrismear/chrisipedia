@@ -3,5 +3,5 @@
 This means it:
 
 * consists of an undifferentiated mixture of fact and opinion;
-* contains innacuracies; and
+* contains inaccuracies; and
 * is entirely uncomprehensive.
