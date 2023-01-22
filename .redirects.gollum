@@ -1,3 +1,4 @@
 ---
 Home.md: Chrisipedia.md
 Chrisipedia.md: Home.md
+_Header.md: _Sidebar.md
